@@ -1,0 +1,64 @@
+================================================
+COMMENT LANCER LE PROJET?
+================================================
+
+3 METHODES SIMPLES:
+
+1. 🚀 DEMO RAPIDE (Recommandé pour tester)
+   → Double-cliquez sur: DEMARRAGE.bat
+   → Lance automatiquement une analyse complète
+   → Durée: ~3 secondes
+   → Aucune interaction requise
+
+================================================
+
+2. 🎮 MENU SIMPLE (Recommandé pour débuter)
+   → Double-cliquez sur: LANCER_FACILE.bat
+   → Affiche un menu avec 4 options
+   → Choisissez l'option et suivez les instructions
+   → Après l'analyse, le programme s'arrête
+   
+   Options:
+   [1] DEMO complete
+   [2] Menu interactif (choisir votre APK)
+   [3] Guide découverte
+   [4] Quitter
+
+================================================
+
+3. 📂 MENU COMPLET AVEC BOUCLE
+   → Double-cliquez sur: LANCER.bat
+   → Affiche le menu avec 7 options
+   → Revient automatiquement au menu après chaque analyse
+   → Appuyez sur [7] pour quitter
+   
+   Options supplémentaires:
+   [5] Voir le résumé du projet
+   [6] Guide d'utilisation complet
+
+================================================
+
+AUTRES METHODES:
+
+Python directement:
+   - python code1.py              (Lance la DEMO)
+   - python run_pentest.py        (Menu interactif)
+   - python QUICKSTART.py         (Guide découverte)
+
+PowerShell:
+   - Clic droit sur LANCER_SIMPLE.ps1
+   - Exécuter avec PowerShell
+
+Nouvelle fenêtre PowerShell:
+   - Double-cliquez: LANCER_NOUVEAU_TERMINAL.bat
+
+================================================
+
+CONSEILS D'UTILISATION:
+
+- Commencez par DEMARRAGE.bat pour voir la DEMO
+- Puis utilisez LANCER_FACILE.bat pour tester différents modes
+- Vérifiez les rapports générés dans le dossier du projet
+- Les fichiers rapportés ont la forme: rapport_pentest_*.txt
+
+================================================
